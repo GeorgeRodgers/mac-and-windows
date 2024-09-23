@@ -1,5 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/44912347/202244850-18dbf275-11cf-44b5-9500-b2fcb5d44d05.jpg)
 
+hi
+
 # Mac and Windows
 **TASK**: Design a page that marks up some content, and will display information about Mac and Windows. The final page should look similar in structure to the one shown below:
 
